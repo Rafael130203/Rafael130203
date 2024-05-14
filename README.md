@@ -8,9 +8,9 @@ ____________________________________________________
 
 - 💻 Técnico em Informática formado pelo IFSP;
 
-- 📚 Cursando o 3º período Superior em Tecnologia em Análise e Desenvolvimento de Sistemas (WYDEN) e Licenciatura em Matemática (UNICAMP);
+- 📚 Cursando o 5º período Superior em Tecnologia em Análise e Desenvolvimento de Sistemas (UNIMETROCAMP) e Licenciatura em Matemática (UNICAMP);
 
-- 🚀 Estagiário Superior na Icaro Tech.
+- 🚀 Analista de Sistemas Jr. na Icaro Tech.
 
 _______________________________________________
 
