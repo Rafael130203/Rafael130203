@@ -8,7 +8,7 @@ ____________________________________________________
 
 - 💻 Técnico em Informática formado pelo IFSP;
 
-- 📚 Cursando o 5º período Superior em Tecnologia em Análise e Desenvolvimento de Sistemas (UNIMETROCAMP) e Licenciatura em Matemática (UNICAMP);
+- 📚 Formado em Análise e Desenvolvimento de Sistemas e estudante de Licenciatura em Matemática (UNICAMP);
 
 - 🚀 Analista de Sistemas Jr. na Icaro Tech.
 
